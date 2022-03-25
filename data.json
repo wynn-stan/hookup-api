@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HooKup</title>
+</head>
+<body>
+    <!--
+        Write and display list of projects and github links
+    -->
+
+    <!--Create a container to hold the list-->
+    <div>
+            <!--Create a header to say what this is-->
+            
+            <h2>List Of Projects</h2>
+
+            <ol>
+                <li>
+                    <!--instead of p or direct, use a tags so people can tap directly on name and be sent to the github-->
+                    <a href="#">ShackUp</a>
+                </li>
+                <li>
+                    <a href="#">Paula's Project</a>
+                </li>
+                <li>
+                    <a href="#">HookUp</a>
+                </li>
+                <li>
+                    <a href="#">Daniel's Project</a>
+                </li>
+            </ol>
+    </div>
+    
+</body>
+</html>
